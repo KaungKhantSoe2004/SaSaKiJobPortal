@@ -1,0 +1,23 @@
+body {
+    background-color: rgb(200, 188, 188);
+}
+.signInContainer {
+    background: url("https://thumbs.dreamstime.com/b/hard-working-cartoon-vector-office-worker-icon-51228543.jpg");
+    height: 100%;
+
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+form > input {
+    margin-top: 4%;
+}
+form > input:focus {
+    background-color: rgb(222, 218, 218);
+}
+.signIn {
+    background-color: white;
+}
+.signInBtn:hover {
+    background-color: #00abf0;
+    color: black;
+}
